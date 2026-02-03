@@ -66,10 +66,10 @@ SECRET_KEY=your_secret_key
 Run the application:
 
 Bash
-# For backend (example with FastAPI/Uvicorn)
+# For backend 
 uvicorn main:app --reload
 
-# For frontend (if applicable)
+# For frontend 
 cd frontend
 npm install
 npm start
